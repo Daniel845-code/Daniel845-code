@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daniel845-code
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Python
 - 🌱 I’m currently learning PHP/MySQL Python/Kivy
 - 💞️ I’m looking to collaborate on project about web development
 - 📫 How to reach me danielsousak300@gmail.com
